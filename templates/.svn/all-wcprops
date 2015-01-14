@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/ncss151/!svn/ver/340/templates
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ncss151/!svn/ver/327/templates/footer.html
+END
+index_loggedin.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ncss151/!svn/ver/283/templates/index_loggedin.html
+END
+index_loggedout.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ncss151/!svn/ver/314/templates/index_loggedout.html
+END
+profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/ncss151/!svn/ver/322/templates/profile.html
+END
+common_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ncss151/!svn/ver/283/templates/common_header.html
+END
+quest.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/ncss151/!svn/ver/340/templates/quest.html
+END
+create_profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ncss151/!svn/ver/236/templates/create_profile.html
+END
+create_quest.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ncss151/!svn/ver/335/templates/create_quest.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ncss151/!svn/ver/323/templates/500.html
+END
+edit_profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ncss151/!svn/ver/296/templates/edit_profile.html
+END
+user_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ncss151/!svn/ver/321/templates/user_header.html
+END
+chat_box.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ncss151/!svn/ver/316/templates/chat_box.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ncss151/!svn/ver/323/templates/404.html
+END
+headheader.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ncss151/!svn/ver/331/templates/headheader.html
+END

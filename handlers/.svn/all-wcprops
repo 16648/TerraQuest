@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/ncss151/!svn/ver/343/handlers
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ncss151/!svn/ver/343/handlers/errors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ncss151/!svn/ver/12/handlers/__init__.py
+END
+profiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/ncss151/!svn/ver/322/handlers/profiles.py
+END
+quests.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ncss151/!svn/ver/340/handlers/quests.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ncss151/!svn/ver/316/handlers/message.py
+END

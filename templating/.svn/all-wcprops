@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/ncss151/!svn/ver/337/templating
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ncss151/!svn/ver/81/templating/footer.html
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ncss151/!svn/ver/81/templating/test.html
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ncss151/!svn/ver/83/templating/parser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ncss151/!svn/ver/82/templating/__init__.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ncss151/!svn/ver/337/templating/tree.py
+END
+MockWebPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ncss151/!svn/ver/81/templating/MockWebPage.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ncss151/!svn/ver/81/templating/header.html
+END
