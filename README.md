@@ -3,25 +3,25 @@ A social networking site
 Created by 2015 NCSS
 
 Database:
-Anand
-Micheal
+Anand,
+Micheal,
 Scott
 
 Design:
-Daman
-Hail
-Chris
+Daman,
+Hail,
+Chris,
 Jaz
 
 Server:
-Zac
-Bailey
+Zac,
+Bailey,
 
 Maps:
 Bailey
 
 Template Engine:
-Stephanie
-Simone
-Luke
+Stephanie,
+Simone,
+Luke,
 Alex
